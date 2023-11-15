@@ -1,0 +1,10 @@
+# Below is a query used to find the top 10 movie titles based on the total amount paid using INNER JOINS
+
+SELECT title, SUM(A.amount) AS "total amount paid"
+FROM payment A
+INNER JOIN rental B on A.rental_id = B.rental_id
+INNER JOIN inventory C on B.inventory_id = C.inventory_id
+INNER JOIN film D on C.film_id = D.film_id
+GROUP BY title
+ORDER BY "total amount paid" DESC
+LIMIT 10
