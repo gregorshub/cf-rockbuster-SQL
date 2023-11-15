@@ -31,4 +31,4 @@ The data was provided by Rockbuster in the Project Brief.  The data set worked o
 
 ## Visualizations
 
-Visualizations were created in Tableau.  The link to the storyboard can be found here: [Rockbuster Visuals]([https://public.tableau.com/views/ROCKBUSTER_16850728929730/rockbuster?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/gregor.gurski/viz/SpatialAnalysis_TotalRevenueByCountry/Sheet1?publish=yes)https://public.tableau.com/app/profile/gregor.gurski/viz/SpatialAnalysis_TotalRevenueByCountry/Sheet1?publish=yes)
+Visualizations were created in Tableau.  The link to the storyboard can be found here: [Rockbuster Visuals](https://public.tableau.com/app/profile/gregor.gurski/viz/SpatialAnalysis_TotalRevenueByCountry/Sheet1?publish=yes)
